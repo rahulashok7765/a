@@ -1,0 +1,1 @@
+’Ashok Water Supply’ is a software to maintain  supply of water to the clients on daily basis. Admin can also add details. He can also maintain bills of  customers. Admin can add images to the gallery. He can also have credit information about the customers . Admin does external billing here. Admin can  assign work to workers.
